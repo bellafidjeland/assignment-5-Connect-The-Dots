@@ -1,0 +1,15 @@
+<style>
+        
+/* element selevtor */
+/* this one overrides the h1 in the style.css file */
+h1 {
+    color: khaki; /* property : value ; */
+}
+
+/* class selector */
+.article-title {
+    text-transform: uppercase;
+    /* font-size: 40 px; */
+}
+
+</style>
